@@ -1,24 +1,29 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ShoppingAPI.Services;
-
+using Infrastructure.Models;
+using Infrastructure;
 namespace ShoppingAPI.Controllers
 {
     [Route("api/[controller]")]
     public class AuthController : Controller
     {
         private readonly Service _service;
+        private readonly IUserLoginRegister _userLoginRegister;
 
-        public AuthController(Service service )
+        public AuthController(Service service, IUserLoginRegister iu)
         {
-            _service =   service;
+            _service = service;
+            _userLoginRegister = iu;
         }
         [HttpPost("Auth")]
-        public IActionResult Auth([FromBody] LoginModel lg)
+        public async Task<IActionResult> Auth([FromBody] IUserIM lg)
         {
-            if(lg.Username=="admin" && lg.Password == "admin")
+            int result = 0;
+            result = await  _userLoginRegister.CheckUserLogin(lg.username, lg.password);
+            if (result >0)
             {
-                var token =_service.GenerateToken(lg.Username);
+                var token = _service.GenerateToken(lg.username);
                 return Ok(new { token });
             }
             return Unauthorized();

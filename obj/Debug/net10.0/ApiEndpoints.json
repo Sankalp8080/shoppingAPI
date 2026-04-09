@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "lg",
-        "Type": "ShoppingAPI.Controllers.AuthController\u002BLoginModel",
+        "Type": "Infrastructure.Models.IUserIM",
         "IsRequired": true
       }
     ],

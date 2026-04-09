@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../Infrastructure/Infrastructure.csproj" Id="38c5f9c9-1e5d-44f6-99d1-e79ca336c00b" />
+  <Project Path="../Persistence/Persistence.csproj" Id="af52a4d6-1d2b-43d8-b615-d10918936350" />
   <Project Path="ShoppingAPI.csproj" />
 </Solution>

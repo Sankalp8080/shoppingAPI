@@ -1,4 +1,8 @@
+using Infrastructure;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Persistence;
+using ShoppingAPI.Infrastructure;
+using ShoppingAPI.Persistence;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +14,8 @@ builder.Services.AddControllers();
 //builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ShoppingAPI.Services.Service>();
+builder.Services.AddScoped<IReadOnlyData, ReadOnlyData>();
+builder.Services.AddScoped<IUserLoginRegister, UserLoginRegister>();
 builder.Services.AddAuthentication( //Enable Authentication Process
     opt =>
     {
