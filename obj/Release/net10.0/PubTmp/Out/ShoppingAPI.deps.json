@@ -16,6 +16,7 @@
           "Microsoft.AspNetCore.OpenApi": "10.0.5",
           "Microsoft.Data.SqlClient": "7.0.0",
           "Persistence": "1.0.0",
+          "Swashbuckle.AspNetCore.Annotations": "10.1.7",
           "Swashbuckle.AspNetCore.Swagger": "10.1.7",
           "Swashbuckle.AspNetCore.SwaggerGen": "10.1.7",
           "Swashbuckle.AspNetCore.SwaggerUI": "10.1.7"
@@ -402,6 +403,17 @@
           }
         }
       },
+      "Swashbuckle.AspNetCore.Annotations/10.1.7": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.1.7"
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "assemblyVersion": "10.1.7.0",
+            "fileVersion": "10.1.7.2427"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Swagger/10.1.7": {
         "dependencies": {
           "Microsoft.OpenApi": "2.4.1"
@@ -734,6 +746,13 @@
       "sha512": "sha512-6sZ5uynQeAE9dPWBQGKebNmxbY4xsvcc5VplB5WkYEESUS7oy4AwnFp0FhqxTSKm/PaFrFqLrYr696CYN8cugg==",
       "path": "nito.disposables/2.2.1",
       "hashPath": "nito.disposables.2.2.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Annotations/10.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qHNQghKAzrjDEECIlyKEanmWxXDzrh6PyjGWVdql2qZfap0Ionuxam5OrUozibjbgQbVjRmgSXxWC8giIuCbGA==",
+      "path": "swashbuckle.aspnetcore.annotations/10.1.7",
+      "hashPath": "swashbuckle.aspnetcore.annotations.10.1.7.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/10.1.7": {
       "type": "package",

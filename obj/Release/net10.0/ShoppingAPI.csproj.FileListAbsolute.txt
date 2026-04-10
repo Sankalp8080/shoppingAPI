@@ -93,3 +93,4 @@ C:\GM_Project\Study\ShoppingAPI\obj\Release\net10.0\refint\ShoppingAPI.dll
 C:\GM_Project\Study\ShoppingAPI\obj\Release\net10.0\ShoppingAPI.pdb
 C:\GM_Project\Study\ShoppingAPI\obj\Release\net10.0\ShoppingAPI.genruntimeconfig.cache
 C:\GM_Project\Study\ShoppingAPI\obj\Release\net10.0\ref\ShoppingAPI.dll
+C:\GM_Project\Study\ShoppingAPI\bin\Release\net10.0\Swashbuckle.AspNetCore.Annotations.dll

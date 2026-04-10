@@ -13,16 +13,53 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Object",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShoppingAPI.Controllers.AuthController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/Auth/GetUserProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "im",
+        "Type": "Infrastructure.Models.IUserIM",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "ShoppingAPI.Controllers.AuthController",
-    "Method": "Get",
-    "RelativePath": "api/Auth/Get",
-    "HttpMethod": "GET",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "Infrastructure.Models.UserRegisterIM",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

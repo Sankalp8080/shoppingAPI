@@ -45,7 +45,7 @@ var app = builder.Build();
 //{
 //app.MapOpenApi();
 app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerUI(c => {  c.SwaggerEndpoint("v1/swagger.json", "My API V1");});
 //}
 
 app.UseHttpsRedirection();

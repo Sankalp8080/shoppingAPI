@@ -3,7 +3,13 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Study\publish</_PublishTargetUrl>
-    <History>True|2026-04-09T04:54:56.7072524Z||;</History>
+    <History>True|2026-04-10T13:58:34.8071788Z||;True|2026-04-10T15:51:27.9265160+05:30||;True|2026-04-10T15:21:00.5518739+05:30||;True|2026-04-09T20:23:08.0002800+05:30||;True|2026-04-09T20:21:19.6039089+05:30||;True|2026-04-09T20:16:58.2217719+05:30||;True|2026-04-09T10:24:56.7072524+05:30||;</History>
     <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="default">
+      <Value>Server=LAPTOP-M9NQEOOO\SQLEXPRESS%3bInitial Catalog=Shopping%3bintegrated security=true%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>

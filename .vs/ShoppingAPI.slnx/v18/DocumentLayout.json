@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GM_Project\\Study\\ShoppingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9F6C63-3E2E-F167-5F4C-007723A45C65}|ShoppingAPI.csproj|c:\\gm_project\\study\\shoppingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9F6C63-3E2E-F167-5F4C-007723A45C65}|ShoppingAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF52A4D6-1D2B-43D8-B615-D10918936350}|..\\Persistence\\Persistence.csproj|c:\\gm_project\\study\\persistence\\userloginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C5F9C9-1E5D-44F6-99D1-E79CA336C00B}|..\\Infrastructure\\Infrastructure.csproj|c:\\gm_project\\study\\infrastructure\\models\\iuserim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF52A4D6-1D2B-43D8-B615-D10918936350}|..\\Persistence\\Persistence.csproj|c:\\gm_project\\study\\persistence\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C5F9C9-1E5D-44F6-99D1-E79CA336C00B}|..\\Infrastructure\\Infrastructure.csproj|c:\\gm_project\\study\\infrastructure\\iuserloginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9F6C63-3E2E-F167-5F4C-007723A45C65}|ShoppingAPI.csproj|c:\\gm_project\\study\\shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9F6C63-3E2E-F167-5F4C-007723A45C65}|ShoppingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:990235366:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\Persistence\\Models\\UserVM.cs",
+              "RelativeDocumentMoniker": "..\\Persistence\\Models\\UserVM.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\Persistence\\Models\\UserVM.cs",
+              "RelativeToolTip": "..\\Persistence\\Models\\UserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:31:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginRegister.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\Persistence\\UserLoginRegister.cs",
+              "RelativeDocumentMoniker": "..\\Persistence\\UserLoginRegister.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\Persistence\\UserLoginRegister.cs",
+              "RelativeToolTip": "..\\Persistence\\UserLoginRegister.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:23:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserLoginRegister.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\Infrastructure\\IUserLoginRegister.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\IUserLoginRegister.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\Infrastructure\\IUserLoginRegister.cs",
+              "RelativeToolTip": "..\\Infrastructure\\IUserLoginRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:20:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserIM.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\Infrastructure\\Models\\IUserIM.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Models\\IUserIM.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\Infrastructure\\Models\\IUserIM.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Models\\IUserIM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:11:19.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\ShoppingAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\ShoppingAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:35:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GM_Project\\Study\\ShoppingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GM_Project\\Study\\ShoppingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwB4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:44:50.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

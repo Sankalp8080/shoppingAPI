@@ -92,3 +92,5 @@ C:\GM_Project\Study\ShoppingAPI\obj\Debug\net10.0\ShoppingAPI.sourcelink.json
 C:\GM_Project\Study\ShoppingAPI\bin\Debug\net10.0\Infrastructure.dll
 C:\GM_Project\Study\ShoppingAPI\bin\Debug\net10.0\Infrastructure.pdb
 C:\GM_Project\Study\ShoppingAPI\bin\Debug\net10.0\dotnet-tools.json
+C:\GM_Project\Study\ShoppingAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\GM_Project\Study\ShoppingAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
